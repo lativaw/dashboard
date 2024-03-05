@@ -1,0 +1,10 @@
+pandas
+matplotlib.pyplot
+seaborn
+datetime
+numpy
+streamlit
+PIL
+Image
+babel.numbers
+format_currency
